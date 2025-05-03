@@ -176,7 +176,7 @@ ShowSettingsGUI() {
 
 
 	OpenWebsite:
-		Run, https://www.youtube.com/watch?v=i1RvUFkp25Y
+		Run, https://www.youtube.com/watch?v=PPK2O56NoT4
     return
 
 	OpenSubscribe:
