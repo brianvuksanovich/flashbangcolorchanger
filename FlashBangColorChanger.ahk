@@ -139,7 +139,7 @@ ShowSettingsGUI() {
 
 	if (GuiPosition = "Fixed Position")
 		OSD_EnableDrag()
-	Gui, s:Show,, Settings - KeypressOSD
+	Gui, s:Show,, Settings - FlashbangColorChanger
 
 
 
